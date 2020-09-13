@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "First Post",
-            "content": "A Test Post . I want to own my blog this time… but I really don’t want to spin up a server and set up Wordpress or whatever. So, I am trying fastpages - we’ll see how it goes! .",
-            "url": "https://samhavens.github.io/blog/2020/09/13/First-Post.html",
-            "relUrl": "/2020/09/13/First-Post.html",
+            "title": "Test Post",
+            "content": "Test Post . I want to own my blog this time… but I really don’t want to spin up a server and set up Wordpress or whatever. So, I am trying fastpages - we’ll see how it goes! .",
+            "url": "https://samhavens.github.io/blog/markdown/2020/09/13/First-Post.html",
+            "relUrl": "/markdown/2020/09/13/First-Post.html",
             "date": " • Sep 13, 2020"
         }
         
