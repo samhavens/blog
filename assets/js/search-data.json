@@ -17,8 +17,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About",
+          "content": "I am very interested in some cognitive science ideas, and I feel like I have a unique perspective to add as a Machine Learning / NLP practitioner. Specifically, I am thinking a lot about: . Predictive Processing | #SobSquad and Douglas Tatryn’s BioEmotive Framework | Van der Kolk / The Body Keeps the Score | Schmidhuber’s Mind Body Program | Valery Krupnik’s research | .",
           "url": "https://samhavens.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
