@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: "Thoughts on \"Trauma or Drama: A Predictive Processing Perspective on the Continuum of Stress\""
-categories: [trauma], [predictive-processing]
+categories: [trauma, predictive-processing]
 title: The Trauma Continuum
 ---
 
